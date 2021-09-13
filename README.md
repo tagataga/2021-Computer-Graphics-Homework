@@ -1,7 +1,8 @@
 # 2021-Computer-Graphics-Homework
 Computer Graphics Homework 2021
+计算机图形学作业-图元绘制
 
-实验要求:
+要求:
 任务1：
 利用你熟悉的绘图环境，实现Bresenham直线光栅化算法，并用你实现的绘制直线的算法替代系统中提供的直线绘制函数，绘制如图1中的各种线段。
 任务2
